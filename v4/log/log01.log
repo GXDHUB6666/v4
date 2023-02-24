@@ -1,0 +1,165 @@
+2023-01-14 17:24:17,664 INFO [root] [base.py base_click:21]-正在点击元素：('partial link text', '登录')
+2023-01-14 17:24:17,664 INFO [root] [base.py base_find_element:17]-正在查找元素：('partial link text', '登录')
+2023-01-14 17:24:18,791 INFO [root] [base.py base_input:25]-正在给元素('name', 'accounts') 输入内容：gxd983379253
+2023-01-14 17:24:18,791 INFO [root] [base.py base_find_element:17]-正在查找元素：('name', 'accounts')
+2023-01-14 17:24:18,823 INFO [root] [base.py base_input:28]-正在清空元素：('name', 'accounts')
+2023-01-14 17:24:18,923 INFO [root] [base.py base_input:30]-正在给元素('name', 'accounts') 输入内容：gxd983379253
+2023-01-14 17:24:18,923 INFO [root] [base.py base_input:25]-正在给元素('name', 'pwd') 输入内容：gxd6352
+2023-01-14 17:24:18,923 INFO [root] [base.py base_find_element:17]-正在查找元素：('name', 'pwd')
+2023-01-14 17:24:18,963 INFO [root] [base.py base_input:28]-正在清空元素：('name', 'pwd')
+2023-01-14 17:24:19,009 INFO [root] [base.py base_input:30]-正在给元素('name', 'pwd') 输入内容：gxd6352
+2023-01-14 17:24:19,009 INFO [root] [base.py base_click:21]-正在点击元素：('xpath', '/html/body/div[4]/div/div[2]/div[2]/div/div/div[1]/form/div[3]/button')
+2023-01-14 17:24:19,009 INFO [root] [base.py base_find_element:17]-正在查找元素：('xpath', '/html/body/div[4]/div/div[2]/div[2]/div/div/div[1]/form/div[3]/button')
+2023-01-14 17:24:19,057 INFO [root] [base.py base_get_text:33]-获取元素文本：('class name', 'prompt-msg')
+2023-01-14 17:24:19,057 INFO [root] [base.py base_find_element:17]-正在查找元素：('class name', 'prompt-msg')
+2023-01-14 17:24:19,594 INFO [root] [base.py base_get_text:33]-获取元素文本：('class name', 'prompt-msg')
+2023-01-14 17:24:19,594 INFO [root] [base.py base_find_element:17]-正在查找元素：('class name', 'prompt-msg')
+2023-01-14 17:24:19,608 INFO [root] [base.py base_click:21]-正在点击元素：('partial link text', '退出')
+2023-01-14 17:24:19,608 INFO [root] [base.py base_find_element:17]-正在查找元素：('partial link text', '退出')
+2023-01-14 17:24:21,543 INFO [root] [base.py base_click:21]-正在点击元素：('partial link text', '登录')
+2023-01-14 17:24:21,543 INFO [root] [base.py base_find_element:17]-正在查找元素：('partial link text', '登录')
+2023-01-14 17:24:23,890 INFO [root] [base.py base_input:25]-正在给元素('name', 'accounts') 输入内容：gxd983379
+2023-01-14 17:24:23,890 INFO [root] [base.py base_find_element:17]-正在查找元素：('name', 'accounts')
+2023-01-14 17:24:23,920 INFO [root] [base.py base_input:28]-正在清空元素：('name', 'accounts')
+2023-01-14 17:24:23,961 INFO [root] [base.py base_input:30]-正在给元素('name', 'accounts') 输入内容：gxd983379
+2023-01-14 17:24:23,961 INFO [root] [base.py base_input:25]-正在给元素('name', 'pwd') 输入内容：gxd6352
+2023-01-14 17:24:23,961 INFO [root] [base.py base_find_element:17]-正在查找元素：('name', 'pwd')
+2023-01-14 17:24:23,991 INFO [root] [base.py base_input:28]-正在清空元素：('name', 'pwd')
+2023-01-14 17:24:24,034 INFO [root] [base.py base_input:30]-正在给元素('name', 'pwd') 输入内容：gxd6352
+2023-01-14 17:24:24,034 INFO [root] [base.py base_click:21]-正在点击元素：('xpath', '/html/body/div[4]/div/div[2]/div[2]/div/div/div[1]/form/div[3]/button')
+2023-01-14 17:24:24,034 INFO [root] [base.py base_find_element:17]-正在查找元素：('xpath', '/html/body/div[4]/div/div[2]/div[2]/div/div/div[1]/form/div[3]/button')
+2023-01-14 17:24:24,084 INFO [root] [base.py base_get_text:33]-获取元素文本：('class name', 'prompt-msg')
+2023-01-14 17:24:24,084 INFO [root] [base.py base_find_element:17]-正在查找元素：('class name', 'prompt-msg')
+2023-01-14 17:24:24,624 INFO [root] [base.py base_get_text:33]-获取元素文本：('class name', 'prompt-msg')
+2023-01-14 17:24:24,624 INFO [root] [base.py base_find_element:17]-正在查找元素：('class name', 'prompt-msg')
+2023-01-14 17:24:24,636 INFO [root] [base.py base_click:21]-正在点击元素：('partial link text', '登录')
+2023-01-14 17:24:24,636 INFO [root] [base.py base_find_element:17]-正在查找元素：('partial link text', '登录')
+2023-01-14 17:24:25,087 INFO [root] [base.py base_input:25]-正在给元素('name', 'accounts') 输入内容：gxd983379253
+2023-01-14 17:24:25,087 INFO [root] [base.py base_find_element:17]-正在查找元素：('name', 'accounts')
+2023-01-14 17:24:25,127 INFO [root] [base.py base_input:28]-正在清空元素：('name', 'accounts')
+2023-01-14 17:24:25,169 INFO [root] [base.py base_input:30]-正在给元素('name', 'accounts') 输入内容：gxd983379253
+2023-01-14 17:24:25,169 INFO [root] [base.py base_input:25]-正在给元素('name', 'pwd') 输入内容：gxd6352dsa
+2023-01-14 17:24:25,169 INFO [root] [base.py base_find_element:17]-正在查找元素：('name', 'pwd')
+2023-01-14 17:24:25,202 INFO [root] [base.py base_input:28]-正在清空元素：('name', 'pwd')
+2023-01-14 17:24:25,246 INFO [root] [base.py base_input:30]-正在给元素('name', 'pwd') 输入内容：gxd6352dsa
+2023-01-14 17:24:25,246 INFO [root] [base.py base_click:21]-正在点击元素：('xpath', '/html/body/div[4]/div/div[2]/div[2]/div/div/div[1]/form/div[3]/button')
+2023-01-14 17:24:25,246 INFO [root] [base.py base_find_element:17]-正在查找元素：('xpath', '/html/body/div[4]/div/div[2]/div[2]/div/div/div[1]/form/div[3]/button')
+2023-01-14 17:24:25,287 INFO [root] [base.py base_get_text:33]-获取元素文本：('class name', 'prompt-msg')
+2023-01-14 17:24:25,287 INFO [root] [base.py base_find_element:17]-正在查找元素：('class name', 'prompt-msg')
+2023-01-14 17:24:25,822 INFO [root] [base.py base_get_text:33]-获取元素文本：('class name', 'prompt-msg')
+2023-01-14 17:24:25,822 INFO [root] [base.py base_find_element:17]-正在查找元素：('class name', 'prompt-msg')
+2023-01-14 17:24:25,833 INFO [root] [base.py base_click:21]-正在点击元素：('partial link text', '登录')
+2023-01-14 17:24:25,833 INFO [root] [base.py base_find_element:17]-正在查找元素：('partial link text', '登录')
+2023-01-14 17:24:26,240 INFO [root] [base.py base_input:25]-正在给元素('name', 'accounts') 输入内容： 
+2023-01-14 17:24:26,240 INFO [root] [base.py base_find_element:17]-正在查找元素：('name', 'accounts')
+2023-01-14 17:24:26,272 INFO [root] [base.py base_input:28]-正在清空元素：('name', 'accounts')
+2023-01-14 17:24:26,304 INFO [root] [base.py base_input:30]-正在给元素('name', 'accounts') 输入内容： 
+2023-01-14 17:24:26,304 INFO [root] [base.py base_input:25]-正在给元素('name', 'pwd') 输入内容：gxd6352dsa
+2023-01-14 17:24:26,304 INFO [root] [base.py base_find_element:17]-正在查找元素：('name', 'pwd')
+2023-01-14 17:24:26,340 INFO [root] [base.py base_input:28]-正在清空元素：('name', 'pwd')
+2023-01-14 17:24:26,390 INFO [root] [base.py base_input:30]-正在给元素('name', 'pwd') 输入内容：gxd6352dsa
+2023-01-14 17:24:26,390 INFO [root] [base.py base_click:21]-正在点击元素：('xpath', '/html/body/div[4]/div/div[2]/div[2]/div/div/div[1]/form/div[3]/button')
+2023-01-14 17:24:26,390 INFO [root] [base.py base_find_element:17]-正在查找元素：('xpath', '/html/body/div[4]/div/div[2]/div[2]/div/div/div[1]/form/div[3]/button')
+2023-01-14 17:24:26,436 INFO [root] [base.py base_get_text:33]-获取元素文本：('class name', 'prompt-msg')
+2023-01-14 17:24:26,436 INFO [root] [base.py base_find_element:17]-正在查找元素：('class name', 'prompt-msg')
+2023-01-14 17:24:26,962 INFO [root] [base.py base_get_text:33]-获取元素文本：('class name', 'prompt-msg')
+2023-01-14 17:24:26,962 INFO [root] [base.py base_find_element:17]-正在查找元素：('class name', 'prompt-msg')
+2023-01-14 17:25:24,988 INFO [root] [base.py base_click:21]-正在点击元素：('partial link text', '登录')
+2023-01-14 17:25:24,988 INFO [root] [base.py base_find_element:17]-正在查找元素：('partial link text', '登录')
+2023-01-14 17:25:25,822 INFO [root] [base.py base_input:25]-正在给元素('name', 'accounts') 输入内容：gxd983379253
+2023-01-14 17:25:25,822 INFO [root] [base.py base_find_element:17]-正在查找元素：('name', 'accounts')
+2023-01-14 17:25:25,854 INFO [root] [base.py base_input:28]-正在清空元素：('name', 'accounts')
+2023-01-14 17:25:25,954 INFO [root] [base.py base_input:30]-正在给元素('name', 'accounts') 输入内容：gxd983379253
+2023-01-14 17:25:25,954 INFO [root] [base.py base_input:25]-正在给元素('name', 'pwd') 输入内容：gxd6352
+2023-01-14 17:25:25,954 INFO [root] [base.py base_find_element:17]-正在查找元素：('name', 'pwd')
+2023-01-14 17:25:25,987 INFO [root] [base.py base_input:28]-正在清空元素：('name', 'pwd')
+2023-01-14 17:25:26,032 INFO [root] [base.py base_input:30]-正在给元素('name', 'pwd') 输入内容：gxd6352
+2023-01-14 17:25:26,033 INFO [root] [base.py base_click:21]-正在点击元素：('xpath', '/html/body/div[4]/div/div[2]/div[2]/div/div/div[1]/form/div[3]/button')
+2023-01-14 17:25:26,033 INFO [root] [base.py base_find_element:17]-正在查找元素：('xpath', '/html/body/div[4]/div/div[2]/div[2]/div/div/div[1]/form/div[3]/button')
+2023-01-14 17:25:26,091 INFO [root] [base.py base_get_text:33]-获取元素文本：('class name', 'prompt-msg')
+2023-01-14 17:25:26,091 INFO [root] [base.py base_find_element:17]-正在查找元素：('class name', 'prompt-msg')
+2023-01-14 17:25:26,631 INFO [root] [base.py base_get_text:33]-获取元素文本：('class name', 'prompt-msg')
+2023-01-14 17:25:26,631 INFO [root] [base.py base_find_element:17]-正在查找元素：('class name', 'prompt-msg')
+2023-01-14 17:25:26,641 INFO [root] [base.py base_click:21]-正在点击元素：('partial link text', '退出')
+2023-01-14 17:25:26,641 INFO [root] [base.py base_find_element:17]-正在查找元素：('partial link text', '退出')
+2023-01-14 17:25:28,537 INFO [root] [base.py base_click:21]-正在点击元素：('partial link text', '登录')
+2023-01-14 17:25:28,537 INFO [root] [base.py base_find_element:17]-正在查找元素：('partial link text', '登录')
+2023-01-14 17:25:30,938 INFO [root] [base.py base_input:25]-正在给元素('name', 'accounts') 输入内容：gxd983379
+2023-01-14 17:25:30,938 INFO [root] [base.py base_find_element:17]-正在查找元素：('name', 'accounts')
+2023-01-14 17:25:30,969 INFO [root] [base.py base_input:28]-正在清空元素：('name', 'accounts')
+2023-01-14 17:25:31,006 INFO [root] [base.py base_input:30]-正在给元素('name', 'accounts') 输入内容：gxd983379
+2023-01-14 17:25:31,007 INFO [root] [base.py base_input:25]-正在给元素('name', 'pwd') 输入内容：gxd6352
+2023-01-14 17:25:31,007 INFO [root] [base.py base_find_element:17]-正在查找元素：('name', 'pwd')
+2023-01-14 17:25:31,037 INFO [root] [base.py base_input:28]-正在清空元素：('name', 'pwd')
+2023-01-14 17:25:31,077 INFO [root] [base.py base_input:30]-正在给元素('name', 'pwd') 输入内容：gxd6352
+2023-01-14 17:25:31,077 INFO [root] [base.py base_click:21]-正在点击元素：('xpath', '/html/body/div[4]/div/div[2]/div[2]/div/div/div[1]/form/div[3]/button')
+2023-01-14 17:25:31,077 INFO [root] [base.py base_find_element:17]-正在查找元素：('xpath', '/html/body/div[4]/div/div[2]/div[2]/div/div/div[1]/form/div[3]/button')
+2023-01-14 17:25:31,124 INFO [root] [base.py base_get_text:33]-获取元素文本：('class name', 'prompt-msg')
+2023-01-14 17:25:31,125 INFO [root] [base.py base_find_element:17]-正在查找元素：('class name', 'prompt-msg')
+2023-01-14 17:25:31,658 INFO [root] [base.py base_get_text:33]-获取元素文本：('class name', 'prompt-msg')
+2023-01-14 17:25:31,658 INFO [root] [base.py base_find_element:17]-正在查找元素：('class name', 'prompt-msg')
+2023-01-14 17:25:31,670 INFO [root] [base.py base_click:21]-正在点击元素：('partial link text', '登录')
+2023-01-14 17:25:31,670 INFO [root] [base.py base_find_element:17]-正在查找元素：('partial link text', '登录')
+2023-01-14 17:25:32,111 INFO [root] [base.py base_input:25]-正在给元素('name', 'accounts') 输入内容：gxd983379253
+2023-01-14 17:25:32,111 INFO [root] [base.py base_find_element:17]-正在查找元素：('name', 'accounts')
+2023-01-14 17:25:32,151 INFO [root] [base.py base_input:28]-正在清空元素：('name', 'accounts')
+2023-01-14 17:25:32,194 INFO [root] [base.py base_input:30]-正在给元素('name', 'accounts') 输入内容：gxd983379253
+2023-01-14 17:25:32,194 INFO [root] [base.py base_input:25]-正在给元素('name', 'pwd') 输入内容：gxd6352dsa
+2023-01-14 17:25:32,194 INFO [root] [base.py base_find_element:17]-正在查找元素：('name', 'pwd')
+2023-01-14 17:25:32,226 INFO [root] [base.py base_input:28]-正在清空元素：('name', 'pwd')
+2023-01-14 17:25:32,274 INFO [root] [base.py base_input:30]-正在给元素('name', 'pwd') 输入内容：gxd6352dsa
+2023-01-14 17:25:32,274 INFO [root] [base.py base_click:21]-正在点击元素：('xpath', '/html/body/div[4]/div/div[2]/div[2]/div/div/div[1]/form/div[3]/button')
+2023-01-14 17:25:32,275 INFO [root] [base.py base_find_element:17]-正在查找元素：('xpath', '/html/body/div[4]/div/div[2]/div[2]/div/div/div[1]/form/div[3]/button')
+2023-01-14 17:25:32,314 INFO [root] [base.py base_get_text:33]-获取元素文本：('class name', 'prompt-msg')
+2023-01-14 17:25:32,314 INFO [root] [base.py base_find_element:17]-正在查找元素：('class name', 'prompt-msg')
+2023-01-14 17:25:32,841 INFO [root] [base.py base_get_text:33]-获取元素文本：('class name', 'prompt-msg')
+2023-01-14 17:25:32,841 INFO [root] [base.py base_find_element:17]-正在查找元素：('class name', 'prompt-msg')
+2023-01-14 17:25:32,853 INFO [root] [base.py base_click:21]-正在点击元素：('partial link text', '登录')
+2023-01-14 17:25:32,853 INFO [root] [base.py base_find_element:17]-正在查找元素：('partial link text', '登录')
+2023-01-14 17:25:33,258 INFO [root] [base.py base_input:25]-正在给元素('name', 'accounts') 输入内容： 
+2023-01-14 17:25:33,258 INFO [root] [base.py base_find_element:17]-正在查找元素：('name', 'accounts')
+2023-01-14 17:25:33,288 INFO [root] [base.py base_input:28]-正在清空元素：('name', 'accounts')
+2023-01-14 17:25:33,319 INFO [root] [base.py base_input:30]-正在给元素('name', 'accounts') 输入内容： 
+2023-01-14 17:25:33,319 INFO [root] [base.py base_input:25]-正在给元素('name', 'pwd') 输入内容：gxd6352dsa
+2023-01-14 17:25:33,320 INFO [root] [base.py base_find_element:17]-正在查找元素：('name', 'pwd')
+2023-01-14 17:25:33,355 INFO [root] [base.py base_input:28]-正在清空元素：('name', 'pwd')
+2023-01-14 17:25:33,398 INFO [root] [base.py base_input:30]-正在给元素('name', 'pwd') 输入内容：gxd6352dsa
+2023-01-14 17:25:33,398 INFO [root] [base.py base_click:21]-正在点击元素：('xpath', '/html/body/div[4]/div/div[2]/div[2]/div/div/div[1]/form/div[3]/button')
+2023-01-14 17:25:33,398 INFO [root] [base.py base_find_element:17]-正在查找元素：('xpath', '/html/body/div[4]/div/div[2]/div[2]/div/div/div[1]/form/div[3]/button')
+2023-01-14 17:25:33,440 INFO [root] [base.py base_get_text:33]-获取元素文本：('class name', 'prompt-msg')
+2023-01-14 17:25:33,440 INFO [root] [base.py base_find_element:17]-正在查找元素：('class name', 'prompt-msg')
+2023-01-14 17:25:33,974 INFO [root] [base.py base_get_text:33]-获取元素文本：('class name', 'prompt-msg')
+2023-01-14 17:25:33,974 INFO [root] [base.py base_find_element:17]-正在查找元素：('class name', 'prompt-msg')
+2023-01-14 17:25:34,012 ERROR [root] [test_login.py test_login:45]-'登录账号不能为空' != '登录号不能为空'
+- 登录账号不能为空
+?   -
++ 登录号不能为空
+
+2023-01-14 17:25:34,012 INFO [root] [base.py base_get_png:37]-正在截图
+2023-02-24 19:01:05,518 ERROR [root] [test_login.py setUpClass:22]-Message: session not created: This version of ChromeDriver only supports Chrome version 108
+Current browser version is 110.0.5481.177 with binary path C:\Program Files\Google\Chrome\Application\chrome.exe
+Stacktrace:
+Backtrace:
+	(No symbol) [0x009BF243]
+	(No symbol) [0x00947FD1]
+	(No symbol) [0x0083D04D]
+	(No symbol) [0x0085F6B4]
+	(No symbol) [0x0085A97C]
+	(No symbol) [0x008582E9]
+	(No symbol) [0x0088F056]
+	(No symbol) [0x0088EB2A]
+	(No symbol) [0x00888386]
+	(No symbol) [0x0086163C]
+	(No symbol) [0x0086269D]
+	GetHandleVerifier [0x00C59A22+2655074]
+	GetHandleVerifier [0x00C4CA24+2601828]
+	GetHandleVerifier [0x00A68C0A+619850]
+	GetHandleVerifier [0x00A67830+614768]
+	(No symbol) [0x009505FC]
+	(No symbol) [0x00955968]
+	(No symbol) [0x00955A55]
+	(No symbol) [0x0096051B]
+	BaseThreadInitThunk [0x75BD00F9+25]
+	RtlGetAppContainerNamedObjectPath [0x770B7BBE+286]
+	RtlGetAppContainerNamedObjectPath [0x770B7B8E+238]
+
